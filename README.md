@@ -1,7 +1,7 @@
 # Hosts DNS Manager v9.0
 
 <p align="center">
-  <img src="https://storage.googleapis.com/gemini-prod/images/425a1768-45a9-4581-9b88-51f6630f9c2d.png" alt="Логотип" width="200"/>
+  <img src="Assets/icon.jpg" alt="Логотип" width="200"/>
 </p>
 
 <p align="center">
